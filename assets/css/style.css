@@ -1218,15 +1218,14 @@ section {
   margin: 0 0 40px 0;
 }
 
-#footer .social-links {
+.social-links {
   margin: 0 0 40px 0;
 }
 
-#footer .social-links a {
-  font-size: 18px;
+.social-links a {
+  font-size: 30px;
   display: inline-block;
-  background: #46423b;
-  color: #fff;
+  color: #333333;
   line-height: 1;
   padding: 8px 0;
   margin-right: 4px;
